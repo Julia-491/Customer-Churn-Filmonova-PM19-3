@@ -1,1 +1,1 @@
-# Kursovaya
+# Customer Churn 
